@@ -31,19 +31,4 @@
 
 ---
 
-### 📬 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
