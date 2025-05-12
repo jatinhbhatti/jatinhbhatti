@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Jatin Bhatti
 
-<!--
-**jatinhbhatti/jatinhbhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Engineer** with 6+ years of experience building high-performance mobile apps using **iOS (Swift)** and **Flutter**. Passionate about clean architecture, UI/UX, and scalable app design.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
+- 🧠 Swift, SwiftUI, Objective-C
+- 🛠 Flutter, Dart
+- ☁️ Firebase, REST APIs, GraphQL
+- 🧪 Unit & UI Testing, CI/CD
+- 🧰 Git, GitHub, Xcode, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I’m Working On
+Currently building cross-platform apps with Flutter and mentoring junior developers.
+
+### 📬 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio or Personal Site](https://yourwebsite.com)
