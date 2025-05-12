@@ -12,13 +12,25 @@
 
 ### 🧠 Tech Stack
 
-![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Objective-C](https://img.shields.io/badge/-ObjectiveC-black?logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+#### 📱 Mobile Development
+![Swift](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### 🛠 Tools & Platforms
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 🌐 APIs & Backend
+![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge)
+
+
+
+
 
 ---
 
